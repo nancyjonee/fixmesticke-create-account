@@ -7,11 +7,11 @@ How to Create a New FixMeStick Account?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://totaldefense-account.readthedocs.io/en/latest/_images/create1.png
+.. image:: https://iolosystemmechanicloginaccount.readthedocs.io/en/latest/_images/login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://fixmestickaccount.com
 ________
 
 In the digital age, keeping your devices safe from viruses, malware, and other threats is more important than ever. FixMeStick is a powerful tool designed to clean your computer from persistent malware that traditional antivirus programs often miss. Before you can use the full functionality of FixMeStick, you need to create a new FixMeStick account. Whether you're a first-time user or someone helping a friend, this guide will walk you through the process step-by-step.
